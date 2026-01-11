@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: prasadsatish06/docker-ci-demo:latest
+          tags: prasadsatish06/docker-ci-lab:latest
